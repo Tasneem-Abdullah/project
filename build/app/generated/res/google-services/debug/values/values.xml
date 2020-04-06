@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">615718747490-536e053e4uergjgidf5fjvtql122pff9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://salma1-f355c.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">615718747490</string>
+    <string name="google_api_key" translatable="false">AIzaSyA16NKq4RMyoaIQk7RY_l3eqx1SyxRLw-w</string>
+    <string name="google_app_id" translatable="false">1:615718747490:android:e204daa08376fe1bf9803b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA16NKq4RMyoaIQk7RY_l3eqx1SyxRLw-w</string>
+    <string name="google_storage_bucket" translatable="false">salma1-f355c.appspot.com</string>
+    <string name="project_id" translatable="false">salma1-f355c</string>
+</resources>
